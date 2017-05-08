@@ -8,6 +8,8 @@
   <title>テスト</title>
 </head>
 <body>
-  接続成功
+<header>ヘッダ</header>
+<content>コンテンツ</content>
+<footer>フッター</footer>
 </body>
 </html>
